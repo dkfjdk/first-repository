@@ -7,5 +7,5 @@ def print KIT():
 
 if_name_ == '_main_':
     print_KIT()
-    print(print_hello(1,2))
+    print(print_hello(3,8))
     
